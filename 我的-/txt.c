@@ -14,3 +14,4 @@ void main()
 	execl("./main","main",b,NULL);
 	printf("execl is error\n");
 }
+
